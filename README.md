@@ -1,4 +1,3 @@
-# configGithub
 # 💫 About Me:
 As an Android Developer at FPT IS with a background in Computer Science from Worcester Polytechnic Institute, I've honed my competencies in mobile application development, particularly using the Android framework and JavaScript. My experience extends to managing user data and collaborating through version control systems to enhance app functionality.<br><br>Recently, we've tackled projects that involve front-end development for cross-platform applications in React Native, demonstrating our adaptability to evolving technologies. Our team's commitment to integrating RESTful API and mySQL has successfully supported a user base exceeding 100,000, showcasing our ability to deliver scalable solutions that align with organizational goals and contribute to a diverse technological environment.
 
